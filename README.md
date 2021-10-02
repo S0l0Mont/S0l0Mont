@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @S0l0Mont
-- 👀 Follow me ---> twt:@ShinishiKuro 
+- 👀 Follow me ---> twitter:@ShinishiKuro 
 - 🌱 i'm study Engineer software
 - 💞️ ❤Aespa Karina❤ ❤Aespa Winter❤
 - 📫 contact me ---> castby9weipage@gmail.com
