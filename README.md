@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S0l0Mont
+- 👋 Hi, I’m wei wei
 - 👀 Follow me ---> twitter:@ShinishiKuro 
 - 🌱 i'm study Engineer software
 - 💞️ ❤Aespa Karina❤ ❤Aespa Winter❤
