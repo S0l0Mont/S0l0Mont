@@ -5,7 +5,6 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 
 ผมชอบทำ Project Game/Web/NFT ตอนนี้ยังเรียนพร้อมศึกษาและพัฒนาฝีมือต่อไป
 
-<details>
   :page_with_curl: I'm currently learning:
 <br><br>
 
@@ -14,7 +13,6 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
   
-</details>
 
 ## Active projects
 
