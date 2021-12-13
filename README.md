@@ -16,7 +16,7 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 
 ## Active projects
 
-- [GuraMono] (https://github.com/S0l0Mont/GuraMono.github.io)
+- [GuraMono](https://github.com/S0l0Mont/GuraMono.github.io.git)
 - empty
 - empty
 
