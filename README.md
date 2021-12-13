@@ -1,38 +1,38 @@
+This profile page is automatically updated every hour with https://github.com/S0l0Mont/profile-updater ✨
 ### Hi there 👋
 
 I'm [Wei] (19 y.o) ! :sunglasses:
 
 ผมชอบทำ Project Game/Web/NFT ตอนนี้ยังเรียนพร้อมศึกษาและพัฒนาฝีมือต่อไป
 
-:page_with_curl: I'm currently learning:
+<details>
+  :page_with_curl: I'm currently learning:
 <br><br>
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-%23FF6F00.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+  
 </details>
+
 ## Active projects
--empty
--empty
--empty
 
-</details>
+- empty
+- empty
+- empty
 
-<details>
-## Stats
-[![wakatime](https://wakatime.com/badge/user/989b587e-3aa8-42a8-8f22-1eb60193eeb5/project/dce710c2-c7a7-4393-8e4d-bffb86f7fa1d.svg)](https://wakatime.com/badge/user/989b587e-3aa8-42a8-8f22-1eb60193eeb5/project/dce710c2-c7a7-4393-8e4d-bffb86f7fa1d)
 
-</details>  
-<details>
+## Past projects
+
+- empty
+- empty
+
 ## Support Me
 
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wsweiritone) 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wsweiritone) 
 
-</details>
+## Stats
 
-Feel free to contact me :yum:
-<br><br>
-<img src="https://img.shields.io/twitter/follow/Skurosawa1?style=social">
+[![wakatime](https://wakatime.com/badge/user/989b587e-3aa8-42a8-8f22-1eb60193eeb5/project/dce710c2-c7a7-4393-8e4d-bffb86f7fa1d.svg)](https://wakatime.com/badge/user/989b587e-3aa8-42a8-8f22-1eb60193eeb5/project/dce710c2-c7a7-4393-8e4d-bffb86f7fa1d)
+
