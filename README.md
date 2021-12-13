@@ -1,5 +1,5 @@
-This profile page is automatically updated every hour with https://github.com/S0l0Mont/profile-updater ✨
-### Hi there 👋
+✨
+### Hi there 👋✨
 
 I'm [Wei] (19 y.o) ! :sunglasses:
 
