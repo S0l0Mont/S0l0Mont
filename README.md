@@ -35,7 +35,7 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 
 Feel free to contact me :yum:
 <br><br>
-[<img src="https://img.shields.io/twitter/follow/Skurosawa1?style=social">]
+<img src="https://img.shields.io/twitter/follow/Skurosawa1?style=social">
 [<img src="https://img.shields.io/badge/LINE-moepoi-brightgreen">](https://line.me/ti/p/FLddfNlHsL~wei)
-[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](castby9weipage@gmail.com)
-[<img src="https://img.shields.io/twitch/status/powerbydarkcoffee?color=%238849FF&logo=Twitch&style=flat-square](https://www.twitch.tv/powerbydarkcoffee)
+[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](castby9weipage@gmail.com)s
+[<img src="https://img.shields.io/twitch/status/powerbydarkcoffee?color=%238849FF&logo=Twitch&style=flat-square]
