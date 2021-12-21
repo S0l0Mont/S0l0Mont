@@ -26,7 +26,7 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 
 ## Past projects 〽️
 
-- empty
+- [Portfolio](https://github.com/S0l0Mont/Portfolio.io)
 - empty
 
 ## Support Me 🍓 🍇 
