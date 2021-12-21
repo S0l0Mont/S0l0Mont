@@ -31,6 +31,6 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wsweiritone) 
 
 ## Stats
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PKnrFHPZ)
 
-[![wakatime](https://wakatime.com/badge/user/989b587e-3aa8-42a8-8f22-1eb60193eeb5/project/dce710c2-c7a7-4393-8e4d-bffb86f7fa1d.svg)](https://wakatime.com/badge/user/989b587e-3aa8-42a8-8f22-1eb60193eeb5/project/dce710c2-c7a7-4393-8e4d-bffb86f7fa1d)]
+[![wakatime](https://wakatime.com/badge/user/989b587e-3aa8-42a8-8f22-1eb60193eeb5/project/dce710c2-c7a7-4393-8e4d-bffb86f7fa1d.svg)](https://wakatime.com/badge/user/989b587e-3aa8-42a8-8f22-1eb60193eeb5/project/dce710c2-c7a7-4393-8e4d-bffb86f7fa1d)
