@@ -37,10 +37,9 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@989b587e-3aa8-42a8-8f22-1eb60193eeb5/e618a8c2-2c04-431c-84af-d5ca448c22c9.png" /></a>
 <br />
 
-//[![wakatime](https://wakatime.com/badge/user/5d1a5950-a7db-447c-b29a-7dd22fe07ef4.svg)](https://wakatime.com/@5d1a5950-a7db-447c-b29a-7dd22fe07ef4)
-
 
 ## MY LIKE
+![alt text](https://user-images.githubusercontent.com/87259475/146949145-b183f5d7-b3bd-4c3f-91a1-6d1e698a1a79.jpg)
 
 
 ## Social
