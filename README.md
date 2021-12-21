@@ -40,13 +40,7 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 [![wakatime](https://wakatime.com/badge/github/S0l0Mont/Portfolio.io.svg)](https://wakatime.com/badge/github/S0l0Mont/Portfolio.io)
 
 ## MY LIKE
-<img
-     src=(https://user-images.githubusercontent.com/87259475/146947348-c33ac23f-4928-4881-87bf-86ca4422b162.jpg)
-     height="300"
-     width="100"
-     />
-
-
+[![wakatime](https://wakatime.com/badge/user/5d1a5950-a7db-447c-b29a-7dd22fe07ef4.svg)](https://wakatime.com/@5d1a5950-a7db-447c-b29a-7dd22fe07ef4)
 
 ## Social
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PKnrFHPZ) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/#inbox) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Skurosawa1) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/powerbydarkcoffee) ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
