@@ -39,7 +39,10 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 
 
 ## MY LIKE
-![alt text](https://user-images.githubusercontent.com/87259475/146949145-b183f5d7-b3bd-4c3f-91a1-6d1e698a1a79.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87259475/146949145-b183f5d7-b3bd-4c3f-91a1-6d1e698a1a79.jpg" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/87259475/146949145-b183f5d7-b3bd-4c3f-91a1-6d1e698a1a79.jpg" width="350" alt="imgse">
+</p>
 
 
 ## Social
