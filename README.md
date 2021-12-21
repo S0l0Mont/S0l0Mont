@@ -40,7 +40,7 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 [![wakatime](https://wakatime.com/badge/github/S0l0Mont/Portfolio.io.svg)](https://wakatime.com/badge/github/S0l0Mont/Portfolio.io)
 
 ## MY LIKE
-![267726242_751162149175987_2458701239293385295_n](https://user-images.githubusercontent.com/87259475/146947348-c33ac23f-4928-4881-87bf-86ca4422b162.jpg)[height="300" width="100"]
+<a ![267726242_751162149175987_2458701239293385295_n](https://user-images.githubusercontent.com/87259475/146947348-c33ac23f-4928-4881-87bf-86ca4422b162.jpg) height="300" width="100"><a />
 
 
 
