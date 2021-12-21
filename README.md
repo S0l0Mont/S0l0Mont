@@ -11,6 +11,7 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 ![Python](https://img.shields.io/badge/Python-%23FF6F00.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
   
 
@@ -35,5 +36,5 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 [![wakatime](https://wakatime.com/badge/user/989b587e-3aa8-42a8-8f22-1eb60193eeb5/project/dce710c2-c7a7-4393-8e4d-bffb86f7fa1d.svg)](https://wakatime.com/badge/user/989b587e-3aa8-42a8-8f22-1eb60193eeb5/project/dce710c2-c7a7-4393-8e4d-bffb86f7fa1d)
 
 ## Social
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PKnrFHPZ) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/#inbox) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Skurosawa1) [!{Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/powerbydarkcoffee)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PKnrFHPZ) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/#inbox) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Skurosawa1) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/powerbydarkcoffee) 
 
