@@ -1,4 +1,3 @@
-![264448790_446540386876846_7295731838009312129_n (1)](https://user-images.githubusercontent.com/87259475/146949663-81d401cc-c95b-47fc-aa28-c0f220d78ec2.jpg)
 ✨
 ### Hi there 👋✨
 
