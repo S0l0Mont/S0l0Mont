@@ -1,3 +1,4 @@
+![264448790_446540386876846_7295731838009312129_n (1)](https://user-images.githubusercontent.com/87259475/146949663-81d401cc-c95b-47fc-aa28-c0f220d78ec2.jpg)
 ✨
 ### Hi there 👋✨
 
@@ -41,10 +42,9 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 ## MY LIKE
 <p align="corner">
   <img src="https://user-images.githubusercontent.com/87259475/146949145-b183f5d7-b3bd-4c3f-91a1-6d1e698a1a79.jpg" width="350" title="hover text">
-  <img src="https://user-images.githubusercontent.com/87259475/146949145-b183f5d7-b3bd-4c3f-91a1-6d1e698a1a79.jpg" width="350" alt="imgse">
+  <img src="https://user-images.githubusercontent.com/87259475/146949691-74fc9d5a-3282-4767-a9c1-049934d2b66b.jpg" width="350" alt="imgse">
 </p>
 
 
 ## Social
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PKnrFHPZ) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/#inbox) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Skurosawa1) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/powerbydarkcoffee) ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-
