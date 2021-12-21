@@ -33,6 +33,9 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wsweiritone) 
 
 ## Stats
+<br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@989b587e-3aa8-42a8-8f22-1eb60193eeb5/e618a8c2-2c04-431c-84af-d5ca448c22c9.png" /></a>
+<br />
 
 [![wakatime](https://wakatime.com/badge/github/S0l0Mont/Portfolio.io.svg)](https://wakatime.com/badge/github/S0l0Mont/Portfolio.io)
 
