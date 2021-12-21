@@ -5,6 +5,7 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 
 ผมชอบทำ Project Game/Web/NFT ตอนนี้ยังเรียนพร้อมศึกษาและพัฒนาฝีมือต่อไป
 
+
   :page_with_curl: I'm currently learning:
 <br><br>
 
@@ -13,7 +14,6 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![]
   
 
 ## Active projects
@@ -38,6 +38,11 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 <br />
 
 [![wakatime](https://wakatime.com/badge/github/S0l0Mont/Portfolio.io.svg)](https://wakatime.com/badge/github/S0l0Mont/Portfolio.io)
+
+## MY LIKE
+![267726242_751162149175987_2458701239293385295_n](https://user-images.githubusercontent.com/87259475/146946664-9e47be1e-b12c-44eb-963f-14cc0c64cd24.jpg)
+
+
 
 ## Social
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PKnrFHPZ) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/4/#inbox) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Skurosawa1) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/powerbydarkcoffee) ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
