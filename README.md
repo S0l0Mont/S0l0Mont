@@ -46,7 +46,7 @@ I'm [Wei] (19 y.o) ! :sunglasses:
   <img src="https://user-images.githubusercontent.com/87259475/146950321-1aa1d097-3793-4758-98c9-1dcd83d51a79.jpg" width="348" alt="imgse">
   <img src="https://user-images.githubusercontent.com/87259475/147594696-078e4596-662e-49ac-8270-8faf84fb2594.jpg" width=350 >
   <img src="https://user-images.githubusercontent.com/87259475/147691628-5b41517c-e716-4d73-86a8-a7a96506675c.jpg" width=260 >
-  <img src="https://user-images.githubusercontent.com/87259475/147691748-ae3e0845-3350-4dde-909a-56f3c8a84d93.jpg" width=260 >
+  <img src="https://user-images.githubusercontent.com/87259475/147691748-ae3e0845-3350-4dde-909a-56f3c8a84d93.jpg" width=350 >
 
 
 
