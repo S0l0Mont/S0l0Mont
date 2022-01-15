@@ -42,8 +42,6 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 ## MY SIMP ❤️  🍑 
 <p align="corner">
   <img src="https://user-images.githubusercontent.com/87259475/146949145-b183f5d7-b3bd-4c3f-91a1-6d1e698a1a79.jpg" width="350" title="hover text">
-  <img src="https://user-images.githubusercontent.com/87259475/146949691-74fc9d5a-3282-4767-a9c1-049934d2b66b.jpg" width="279" alt="imgse">
-  <img src="https://user-images.githubusercontent.com/87259475/146950321-1aa1d097-3793-4758-98c9-1dcd83d51a79.jpg" width="348" alt="imgse">
   <img src="https://user-images.githubusercontent.com/87259475/147594696-078e4596-662e-49ac-8270-8faf84fb2594.jpg" width=350 >
   <img src="https://user-images.githubusercontent.com/87259475/147691628-5b41517c-e716-4d73-86a8-a7a96506675c.jpg" width=260 >
   <img src="https://user-images.githubusercontent.com/87259475/147691748-ae3e0845-3350-4dde-909a-56f3c8a84d93.jpg" width=350 >
