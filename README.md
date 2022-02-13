@@ -41,8 +41,7 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 
 ## MY SIMP ❤️  🍑 
 <p align="corner">
-![272308751_146971081064740_3976688604190689827_n](https://user-images.githubusercontent.com/87259475/153763846-31b1eb4e-3e0b-4c2c-9b1b-156c55443df9.jpg)
-![272333549_146971107731404_3929767791783434279_n](https://user-images.githubusercontent.com/87259475/153763867-5da20886-d798-4dfb-b7af-9bc7d89103d9.jpg)
+
   
 
 
