@@ -37,15 +37,6 @@ I'm [Wei] (19 y.o) ! :sunglasses:
 <br>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@989b587e-3aa8-42a8-8f22-1eb60193eeb5/e618a8c2-2c04-431c-84af-d5ca448c22c9.png" /></a>
 <br />
-
-
-## MY SIMP ❤️  🍑 
-<p align="corner">
-
-  
-
-
-
 </p>
 
 
