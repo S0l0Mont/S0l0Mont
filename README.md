@@ -3,7 +3,7 @@
 
 I'm [Wei] (19 y.o) ! :sunglasses:
 
-ผมชอบทำ Project Game/Web/NFT ตอนนี้ยังเรียนพร้อมศึกษาและพัฒนาฝีมือต่อไป
+Cryptocurrency 2.0
 
 
 
