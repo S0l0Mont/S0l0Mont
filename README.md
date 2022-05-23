@@ -7,7 +7,6 @@ Cryptocurrency 2.0
 
 
 
-  :page_with_curl: I'm currently learning:
 <br><br/>
 
 ![Python](https://img.shields.io/badge/Python-%23FF6F00.svg?style=for-the-badge&logo=Python&logoColor=white)
