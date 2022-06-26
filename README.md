@@ -33,7 +33,7 @@ Cryptocurrency 2.0
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wsweiritone) 
 
 </p>
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cur2tsefibrdop3svkl62r67pa&cover_image=true&theme=default&bar_color=00459e)](https://github.com/kittinan/spotify-github-profile)
 
 
 ## Social 📱  🖱 
