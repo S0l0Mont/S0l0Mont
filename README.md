@@ -1,7 +1,7 @@
 ✨
 ### Hi there 👋✨ 🥀 
 
-I'm Wei (19 y.o) ! 
+I'm Wong (19 y.o) ! 
 
 Cryptocurrency 2.0
 
