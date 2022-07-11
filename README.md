@@ -1,4 +1,4 @@
-# 👋 Hello I'm wong or Wei
+# 👋 Hello I'm wong or wei
 
 ```py
 from dataclasses import dataclass, field
