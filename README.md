@@ -1,16 +1,50 @@
+# 👋 Hello I'm wong or Wei
 
-Cryptocurrency 2.0
+```py
+from dataclasses import dataclass, field
+from typing import List
 
-<br><br/>
-  
-## Active projects 
-- [GuraMono](https://github.com/S0l0Mont/GuraMono.github.io.git)
-- empty
-- empty
-## Past project
+
+@dataclass
+class DataCraftsman:
+    name: str = "Sahacha Inchai"
+    pronouns: str = "he/him/his"
+    current_role: str = "Senior Data Architect"
+    passions: List[str] = field(
+        default_factory=lambda: [
+            "software-engineering",
+            "data-engineering",
+            "data-science",
+        ]
+    )
+
+    def say_hi(self):
+        return "Hi! Thanks for dropping by. :-)"
+
+
+me = DataCraftsman()
+print(me.say_hi())
+```
+
+💬 Ask me anything about software engineering, data engineering, data science, and Python! 🐍
+💬 Cryptocurrency 2.0
+
+## 📝 Blogs
+<>
 - [Portfolio](https://github.com/S0l0Mont/Portfolio.io)
-- [React-portfolio](https://github.com/S0l0Mont/Myportfolio-React-github.git)
+- 
+- 
+</details>
+## ✍🏻 Active projects
+<>
+- <a [GuraMono](https://github.com/S0l0Mont/GuraMono.github.io.git) </a>
+</details>
+## 🙇🏻‍♂️ Support
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wsweiritone) 
 
-</p>
+---
+
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br />
+Last refresh: Monday, 11 July, 08:22 GMT+7<br />
+This profile is inspired by <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Thomas Guibert</a></p>
