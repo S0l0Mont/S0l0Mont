@@ -48,7 +48,3 @@ print(me.say_hi())
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wsweiritone) 
 
 ---
-
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br />
-Last refresh: Monday, 11 July, 08:22 GMT+7<br />
-This profile is inspired by <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Thomas Guibert</a></p>
