@@ -26,8 +26,8 @@ me = Coffeeman()
 print(me.say_hi())
 ```
 
-💬 Ask me anything about software engineering, data engineering, data science, and Python! 🐍
-💬 Cryptocurrency 2.0
+💬 Ask me anything about software engineering, data engineering, data science, and Python! 🐍 Cryptocurrency 2.0
+
 
 ## 📝 Blogs
 <details>
