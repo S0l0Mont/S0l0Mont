@@ -30,15 +30,19 @@ print(me.say_hi())
 💬 Cryptocurrency 2.0
 
 ## 📝 Blogs
-<Blogs>
-- [Portfolio](https://github.com/S0l0Mont/Portfolio.io)
+<details>
+- 
 - 
 - 
 </details>
+
 ## ✍🏻 Active projects
-<Active projects>
-- <a [GuraMono](https://github.com/S0l0Mont/GuraMono.github.io.git) </a>
+<details>
+-
+-
+-
 </details>
+
 ## 🙇🏻‍♂️ Support
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wsweiritone) 
