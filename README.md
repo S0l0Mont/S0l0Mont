@@ -9,12 +9,12 @@ from typing import List
 class DataCraftsman:
     name: str = "Sahacha Inchai"
     pronouns: str = "he/him/his"
-    current_role: str = "Senior Data Architect"
+    current_role: str = "junior Software Engineer"
     passions: List[str] = field(
         default_factory=lambda: [
             "software-engineering",
-            "data-engineering",
-            "data-science",
+            "Blockchian-engineering",
+            "Back-End",
         ]
     )
 
@@ -22,7 +22,7 @@ class DataCraftsman:
         return "Hi! Thanks for dropping by. :-)"
 
 
-me = DataCraftsman()
+me = Coffeeman()
 print(me.say_hi())
 ```
 
