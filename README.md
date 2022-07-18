@@ -11,7 +11,7 @@ class DataCraftsman:
     pronouns: str = "he/him/his"
     current_role: str = "junior Software Engineer"
     passions: List[str] = field(
-        default_factory=lambda: [
+        default_factory=Non;;-;;: [
             "software-engineering",
             "Blockchian-engineering",
             "Back-End",
