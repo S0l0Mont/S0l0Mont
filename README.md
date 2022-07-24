@@ -26,7 +26,8 @@ me = Coffeeman()
 print(me.say_hi())
 ```
 
-💬 Ask me anything about software engineering, data engineering, data science, and Python! 🐍 Cryptocurrency 2.0
+💬 Python,C/C++,Javascript,Typescript,MySQL,GO,HTML,CSS  NPM meme.
+Cryptocurrency 2.0
 
 
 ## 📝 Blogs
