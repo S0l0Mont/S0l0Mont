@@ -26,8 +26,9 @@ me = Coffeeman()
 print(me.say_hi())
 ```
 
-💬 Python,C/C++,Javascript,Typescript,MySQL,GO,HTML,CSS  NPM meme.
-Cryptocurrency 2.0
+💬 Python,C/C++,Javascript,Typescript,MySQL,GO,HTML,CSS  
+-NPM meme.
+-Cryptocurrency 2.0
 
 
 ## 📝 Blogs
